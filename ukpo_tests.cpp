@@ -23,7 +23,7 @@ void preset_mes(int t)
 		<< "Yet those variables will never hold anything" << std::endl
 		<< "So as I compile, Unlimited Crutch Works!" << std::endl;
 	else
-		std::cout << ">>" << std::endl;
+		std::cout << "Input >>" << std::endl;
 }
 
 int inputint()
